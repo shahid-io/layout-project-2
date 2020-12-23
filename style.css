@@ -1,0 +1,84 @@
+.container{
+    width: 100%; height: auto;
+  /*   border: 1px solid black; */
+    background-color: lavender;
+    margin: 0 auto;
+    padding: 0;
+  }
+  .icon{
+  /*   border: 1px solid black; */
+    width: 200px; height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+  }
+  .nav{
+  /*   border: 1px solid black; */
+    width: 90%; height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+  }
+  .icon-nav{
+    display: flex;
+  }
+  .inside-main{
+  /*   border: 1px solid black; */
+    width: 98.4%; height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+  }
+  .contents{
+    display: flex;
+  }
+  
+  .cont1,.cont2,.cont3,.cont4,.cont5{
+    background-color: white;
+    width: 20%; height:100px;
+    margin-left: 10px;
+    margin-right: 10px;
+  /*   margin-top: 10px; */
+    margin-bottom: 10px;
+  }
+  
+  .sections{
+    display: flex;
+  }.sec1,.sec2,.sec3{
+    background-color: white;
+    width: 98%; height:100px;
+    margin: 0; padding: 0;
+  }.sec1{
+    border-right: 1px solid lavender;
+    border-left: 9px solid lavender;
+    border-bottom: 4px solid lavender;
+  }.sec2{
+    border-right: 1px solid lavender;
+  }.sec3{
+    border-right: 9px solid lavender;
+  }
+  .before-footer{
+    display: flex;
+  } .bf-1,.bf-2{
+    width: 50%; height:150px;
+    background-color: white;
+    border: 2px solid lavender;
+  }.bf-1{margin-left: 0.7%;}
+   .bf-2{margin-right: 0.7%;}
+  
+  .inside-footer{
+    background-color: white;
+    width: 98.4%; height:200px;
+    border-bottom: 4px solid lavender;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
